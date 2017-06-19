@@ -1,0 +1,299 @@
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Ecchi Bot.exe.config
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Ecchi Bot.exe
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Ecchi Bot.pdb
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Discord.Net.Commands.dll
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Discord.Net.dll
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.dll
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\RestSharp.dll
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\WebSocket4Net.dll
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Newtonsoft.Json.xml
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.xml
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\RestSharp.xml
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\obj\Debug\Ecchi Bot.csprojResolveAssemblyReference.cache
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\obj\Debug\Ecchi Bot.exe
+c:\users\arizv\documents\visual studio 2017\Projects\Ecchi Bot\Ecchi Bot\obj\Debug\Ecchi Bot.pdb
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\0w0.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\A Real Dick.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Also Dupe.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Amazing.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Are they soft.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Ashamed.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Assault.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Baka.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Bar.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Beach.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Beautiful.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Blow em.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Bust 2.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Bust.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Candy.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Cherry Pop.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Chewy Yet Delicious.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Chibi.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Chiino.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Chobits .).jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Chobits.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Choose.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Chotu.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Classical.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Climax.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Condom.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Conjoined.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Cosplay ;3.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Cosplay ^_^.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Cosplay.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Cough.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Cow.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Dad えっちいええ.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Dad.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Dear me.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Delivery Guy.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Do as your told.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Dont Stop.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Dont Watch.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Dont.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Double.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Drunken Bliss.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Dupe or no.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Dupe.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Ecchi ;3.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Ecchi time in the Bath.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Ecchi time in the Shower.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Ecchi.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Eh.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Embarrased.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Embarrasing.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Epic Loli Sandwich.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Ethereal.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Even More Paizuri.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Examination.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Experience.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Fantastic Women and Where to Find Them.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Feels Funny.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Feels Good.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Finally.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Finish what you start.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\First Climax.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\First Time is a Charm.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\First Time.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\First.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Flash.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Flashing.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Flashy.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Gee.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Get up.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Good Feeling.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Good Paizuri.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Goody.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Grasp Firmly.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Great.gif
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Grinding.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Halloween.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Harem!!.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Harem!.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Harem.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Hello.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Hentai.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\HentaiHaven.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Himedere.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Hoodie.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Huge.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Huh.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\I love it.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\I need you.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\I trust you.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\I want it.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Im cumming.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Imouto.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Innocence.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Is it pleasing.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Is this correct.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Is this how it is done.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Is this the next step.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\It fits ;D.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\It tickles.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Itadakimasu.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Its cold.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Jeez.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Join us.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Kawaii.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Kek.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Kinko.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Kobato!.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Kobato-chwan.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Kobato.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Kuudere.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Kyaa.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Kyaaa.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Loli ;3.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Loli Assault.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Loli Orgasm.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Loli ^_^.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Loli!!!.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Loli!.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Loli.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Loliii.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\LoliPopped.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Lollipop.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Look but dont touch.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Love.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Marshmellow ;3.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Marshmellow.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Massage.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Masturbating.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Me next.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Moe ;3.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Momo.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\More Paizuri.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Mornings.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Mountain.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\New Couple.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Nibble.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Nice Tiles.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Nice.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Night Time.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Night.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Nightly.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Nipple.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\No Ecchi.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\No.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Nooo.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Nya.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Oh Wow.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\On a Stroll.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\On The Beach.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Onii-Chan Stop (おにいちゃんやめて).png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Oppaizuri.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Ore no Nii Imouto.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Orgasm Maximus.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Orgasm.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Orgassm.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\OwO.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Pain no Gain.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Paizuri ^_^.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Paizuri.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Panties.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Passionate.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Peeping.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Pinch.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Pink Slut.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Please Dont.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Please me.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Please Satisfy Me.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Pool Paizuri.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\potential dupe.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Pretty.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Princess.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Private Pool.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Pure.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Purino.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Rape.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Real Loli.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Real Pettanko.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Release.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Sandwich.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\School Swimsuit.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\School.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Sennsual.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Sensual.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Sex feels good.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Sexy 2.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Sexy 3.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Sexy.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Shameless.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Shower.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Shower.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Sneaking.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\So much.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\So Thick.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Stare.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Steamy.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Street.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Struggle.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Succ.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Taking Turns.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Tastes Funny.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Tastes Good.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Tasty 2.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Tasty.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Tasty.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Tell anyone and you Die.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Thank you.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\That tickles.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Thick Load.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Thick.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\This feels good.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\This FluID.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\This is a first.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\This should hurt a little.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Tilth.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Tits.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Tree.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\True Loli.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Twincest (^_^).jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Twincest ^_^.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Twincest.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Under the stars.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Under the Sun.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Unison Bond.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Unwrap Me.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Virgin.gif
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Virgins.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Vivid.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\W0W.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Waah.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Wake Up.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Waking up.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Weiner.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Well How is it.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Well Well.gif
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Well Well.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Well.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\What is this.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Why the toilet.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Wipe.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Wow.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\www.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Yay 'w'.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Yay 'w'w'.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\You are trustworthy.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\You can't.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\You have seen me.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\You have soiled me.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\You saw!.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\You started it.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Your Loli.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Your Wet.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\Yuri.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\ありがとう.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\いただきます.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\いもうと.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\おっぱい.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\おっぱい　kingdom.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\おにいちゃんやめてください.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\おにいーちゃん.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\おはよう.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\おれわいもうとおまんこだいすき.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\かわいい.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\かわいい！！.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\くうでれ.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\こにちわ.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\ごちゅうもんわうさぎですか？.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\なかだし.gif
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\にゃ.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\にゃにゃ.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\ぱいずり.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\ぱいずり２に.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\ぱいずり３.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\へんたい.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\ぺったんこ.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\まほうしょじょ.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\もえ.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\もえ.png
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\もえ　２.jpg
+C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\ゆり！！！.jpg
