@@ -5,12 +5,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Ecchi_Bot
 {
     class EcchiBot
     {
-        readonly DiscordClient discord;
+        DiscordClient discord;
         CommandService commands;
 
         Random rand;
@@ -19,6 +20,9 @@ namespace Ecchi_Bot
 
         public EcchiBot()
         {
+            string tokenFilePath = @"C:\Users\arizv\Documents\Discord\Token\Ecchi_Bot.txt";
+            string token = File.ReadAllText(tokenFilePath);
+
             rand = new Random();
 
             nsfwcontent = new string[]
@@ -310,7 +314,7 @@ namespace Ecchi_Bot
 
             discord.ExecuteAndWait(async () =>
             {
-                await discord.Connect("MzI1MDI0NzM1NDcxODYxNzcw.DCSRJg.VgodrTyS3epcIqj1jNjesKySkB8", TokenType.Bot);
+                await discord.Connect(token, TokenType.Bot);
             });
         }
 

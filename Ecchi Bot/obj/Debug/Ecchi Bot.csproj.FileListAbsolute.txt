@@ -297,3 +297,22 @@ C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Deb
 C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\もえ.png
 C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\もえ　２.jpg
 C:\Users\arizv\Documents\Visual Studio 2017\Projects\Ecchi Bot\Ecchi Bot\bin\Debug\nsfw\ゆり！！！.jpg
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Discord.Net.dll
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\RestSharp.dll
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\WebSocket4Net.dll
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\RestSharp.xml
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\obj\Debug\Ecchi Bot.csprojResolveAssemblyReference.cache
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\obj\Debug\Ecchi Bot.exe
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\obj\Debug\Ecchi Bot.pdb
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Ecchi Bot.exe.config
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Ecchi Bot.exe
+C:\Users\arizv\Documents\Discord\Bots\Ecchi Bot\Ecchi Bot\bin\Debug\Ecchi Bot.pdb
