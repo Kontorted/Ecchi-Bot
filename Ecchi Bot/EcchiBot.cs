@@ -323,10 +323,7 @@ namespace Ecchi_Bot
             commands.CreateCommand("help")
                 .Do(async (e) =>
                {
-                   await e.Channel.SendMessage("These are the following (working) commands:" +
-                       "!purge" +
-                       "!nsfw" +
-                       "[And many more to come]");
+                   await e.Channel.SendMessage("These are the following (working) commands:\n!purge\n!nsfw\n[And many more to come]");
                });
         }
 
