@@ -292,7 +292,18 @@ namespace Ecchi_Bot
                 "http://imgur.com/7zXobjX.png",
                 "http://imgur.com/z9ZjjVI.png",
                 "http://imgur.com/JFAbwaE.png",
-            };
+                "http://imgur.com/InFjwlt.png",
+                "http://imgur.com/A7u1kRL.png",
+                "http://imgur.com/GJGO8n8.png",
+                "http://imgur.com/FJH8Vb5.png",
+                "http://imgur.com/0M55Hcj.png",
+                "http://imgur.com/Xb3vtO9.png",
+                "http://imgur.com/dxYLjTm.png",
+                "http://imgur.com/94ACCgv.png",
+                "http://imgur.com/fWCp6tE.png",
+                "http://imgur.com/g1fidj8.png",
+                "http://imgur.com/hOnCqDZ.png",
+        };
 
             discord = new DiscordClient(x =>
             {
