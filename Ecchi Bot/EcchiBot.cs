@@ -303,24 +303,24 @@ namespace Ecchi_Bot
                 "http://imgur.com/fWCp6tE.png",
                 "http://imgur.com/g1fidj8.png",
                 "http://imgur.com/hOnCqDZ.png",
-				"http://imgur.com/VNIvGe7.png";
-                "http://imgur.com/hoiWreu.png";
-                "http://imgur.com/0usHMwy.png";
-                "http://imgur.com/9h8zL4W.png";
-                "http://imgur.com/rhS7mHX.png";
-                "http://imgur.com/meT2dxg.png";
-                "http://imgur.com/paGTPga.png";
-                "http://imgur.com/wue8rfI.png";
-                "http://imgur.com/w5jLoJu.png";
-                "http://imgur.com/ybDjDNU.png";
-                "http://imgur.com/P2eIlMQ.png";
-                "http://imgur.com/OJfgkOw.png";
-                "http://imgur.com/zGEdiwW.png";
-                "http://imgur.com/YxzgrJq.png";
-                "http://imgur.com/VZYIleu.png";
-                "http://imgur.com/sdw5ERE.png";
-                "http://imgur.com/M7sRcHa.png";
-                "http://imgur.com/Ij0XNLf.png";
+		"http://imgur.com/VNIvGe7.png",
+                "http://imgur.com/hoiWreu.png",
+                "http://imgur.com/0usHMwy.png",
+                "http://imgur.com/9h8zL4W.png",
+                "http://imgur.com/rhS7mHX.png",
+                "http://imgur.com/meT2dxg.png",
+                "http://imgur.com/paGTPga.png",
+                "http://imgur.com/wue8rfI.png",
+                "http://imgur.com/w5jLoJu.png",
+                "http://imgur.com/ybDjDNU.png",
+                "http://imgur.com/P2eIlMQ.png",
+                "http://imgur.com/OJfgkOw.png",
+                "http://imgur.com/zGEdiwW.png",
+                "http://imgur.com/YxzgrJq.png",
+                "http://imgur.com/VZYIleu.png",
+                "http://imgur.com/sdw5ERE.png",
+                "http://imgur.com/M7sRcHa.png",
+                "http://imgur.com/Ij0XNLf.png"
         };
 
             discord = new DiscordClient(x =>
