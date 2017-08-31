@@ -1,10 +1,6 @@
 ﻿using Discord;
 using Discord.Commands;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
 namespace Ecchi_Bot
@@ -20,7 +16,7 @@ namespace Ecchi_Bot
 
         public EcchiBot()
         {
-            string tokenFilePath = @"C:\Users\arizv\Documents\Discord\Token\Ecchi_Bot.txt";
+            string tokenFilePath = @"C:\Users\arizv\Documents\GitKraken\Kontorted\Ecchi-Bot\Token\Ecchi_Bot.txt";
             string token = File.ReadAllText(tokenFilePath);
 
             rand = new Random();
@@ -303,62 +299,61 @@ namespace Ecchi_Bot
                 "http://imgur.com/fWCp6tE.png",
                 "http://imgur.com/g1fidj8.png",
                 "http://imgur.com/hOnCqDZ.png",
-		"http://imgur.com/VNIvGe7.png",
-                "http://imgur.com/hoiWreu.png",
-                "http://imgur.com/0usHMwy.png",
-                "http://imgur.com/9h8zL4W.png",
-                "http://imgur.com/rhS7mHX.png",
-                "http://imgur.com/meT2dxg.png",
-                "http://imgur.com/paGTPga.png",
-                "http://imgur.com/wue8rfI.png",
-                "http://imgur.com/w5jLoJu.png",
-                "http://imgur.com/ybDjDNU.png",
-                "http://imgur.com/P2eIlMQ.png",
-                "http://imgur.com/OJfgkOw.png",
-                "http://imgur.com/zGEdiwW.png",
-                "http://imgur.com/YxzgrJq.png",
-                "http://imgur.com/VZYIleu.png",
-                "http://imgur.com/sdw5ERE.png",
-                "http://imgur.com/M7sRcHa.png",
-                "http://imgur.com/Ij0XNLf.png",
-		"http://imgur.com/Us9aXBX.png",
-                "http://imgur.com/7vLggQe.png",
-		"http://imgur.com/TYS8gyq.png",
-		"http://imgur.com/20sESSm.png",
-		"http://imgur.com/F4RSQYx.png",
-		"http://imgur.com/RuL9sQD.png",
-		"http://imgur.com/oCr3oWY.png",
-		"http://imgur.com/Rbe6Y1P.png",
-		"http://imgur.com/2d4AwOM.png",
-		"http://imgur.com/a3HzYAc.png",
-		"http://imgur.com/sJrROz1.png",
-		"http://imgur.com/71Oyp5Q.png",
-		"http://imgur.com/6XXuABN.png",
-		"http://imgur.com/FSTV3ix.png",
-		"http://imgur.com/W3G41hj.png",
-		"http://imgur.com/DIKZzuu.png",
-		"http://imgur.com/su9izxr.png",
-		"http://imgur.com/7BQO1gI.png",
-		"http://imgur.com/iZDRB65.png",
-		"http://imgur.com/ij7NcvL.png",
-		"http://imgur.com/eQMHyOW.png",
-		"http://imgur.com/33NtY0z.png",
-		"http://imgur.com/XJIqRa7.png",
-		"http://imgur.com/eXzXIbh.png",
-		"http://imgur.com/N4mzOmS.png",
-		"http://imgur.com/ALSv9vG.png",
-		"http://imgur.com/E1PMvje.png",
-		"http://imgur.com/qltxzZl.png",
-		"http://imgur.com/YEVqxhn.png",
-		"http://imgur.com/tzVBmgP.png",
-		"http://imgur.com/GXjPBvK.png",
-		"http://imgur.com/qWcwYgV.png",
-		"http://imgur.com/a8Z6Hva.png",
-		"http://imgur.com/oveDwuP.png",
-		"http://imgur.com/RMZr0Q6.png",
-		"http://imgur.com/aVyhvAf.png",    
-        };
-
+				"http://imgur.com/VNIvGe7.png",
+			    "http://imgur.com/hoiWreu.png",
+			    "http://imgur.com/0usHMwy.png",
+			    "http://imgur.com/9h8zL4W.png",
+			    "http://imgur.com/rhS7mHX.png",
+		        "http://imgur.com/meT2dxg.png",
+		        "http://imgur.com/paGTPga.png",
+		        "http://imgur.com/wue8rfI.png",
+			    "http://imgur.com/w5jLoJu.png",
+			    "http://imgur.com/ybDjDNU.png",
+			    "http://imgur.com/P2eIlMQ.png",
+			    "http://imgur.com/OJfgkOw.png",
+			    "http://imgur.com/zGEdiwW.png",
+			    "http://imgur.com/YxzgrJq.png",
+			    "http://imgur.com/VZYIleu.png",
+			    "http://imgur.com/sdw5ERE.png",
+			    "http://imgur.com/M7sRcHa.png",
+			    "http://imgur.com/Ij0XNLf.png",
+				"http://imgur.com/Us9aXBX.png",
+	   		    "http://imgur.com/7vLggQe.png",
+				"http://imgur.com/TYS8gyq.png",
+				"http://imgur.com/20sESSm.png",
+				"http://imgur.com/F4RSQYx.png",
+				"http://imgur.com/RuL9sQD.png",
+				"http://imgur.com/oCr3oWY.png",
+				"http://imgur.com/Rbe6Y1P.png",
+				"http://imgur.com/2d4AwOM.png",
+				"http://imgur.com/a3HzYAc.png",
+				"http://imgur.com/sJrROz1.png",
+				"http://imgur.com/71Oyp5Q.png",
+				"http://imgur.com/6XXuABN.png",
+				"http://imgur.com/FSTV3ix.png",
+				"http://imgur.com/W3G41hj.png",
+				"http://imgur.com/DIKZzuu.png",
+				"http://imgur.com/su9izxr.png",
+				"http://imgur.com/7BQO1gI.png",
+				"http://imgur.com/iZDRB65.png",
+				"http://imgur.com/ij7NcvL.png",
+				"http://imgur.com/eQMHyOW.png",
+				"http://imgur.com/33NtY0z.png",
+				"http://imgur.com/XJIqRa7.png",
+				"http://imgur.com/eXzXIbh.png",
+				"http://imgur.com/N4mzOmS.png",
+				"http://imgur.com/ALSv9vG.png",
+				"http://imgur.com/E1PMvje.png",
+				"http://imgur.com/qltxzZl.png",
+				"http://imgur.com/YEVqxhn.png",
+				"http://imgur.com/tzVBmgP.png",
+				"http://imgur.com/GXjPBvK.png",
+				"http://imgur.com/qWcwYgV.png",
+				"http://imgur.com/a8Z6Hva.png",
+				"http://imgur.com/oveDwuP.png",
+				"http://imgur.com/RMZr0Q6.png",
+				"http://imgur.com/aVyhvAf.png",    
+			};
             discord = new DiscordClient(x =>
             {
                 x.LogLevel = LogSeverity.Info;
